@@ -2,7 +2,7 @@
   "name": "react-expense-tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/tauheedkhan/react-expense-tracker",
+  "homepage": "https://tauheedkhan.github.io/react-expense-tracker",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
